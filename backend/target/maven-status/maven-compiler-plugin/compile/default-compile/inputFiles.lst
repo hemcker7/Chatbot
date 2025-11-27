@@ -1,0 +1,9 @@
+D:\Codes\Chatbot Project\backend\src\main\java\com\example\chatbot\ChatbotApplication.java
+D:\Codes\Chatbot Project\backend\src\main\java\com\example\chatbot\repository\FAQRepository.java
+D:\Codes\Chatbot Project\backend\src\main\java\com\example\chatbot\repository\ChatMessageRepository.java
+D:\Codes\Chatbot Project\backend\src\main\java\com\example\chatbot\service\RAGService.java
+D:\Codes\Chatbot Project\backend\src\main\java\com\example\chatbot\controller\ChatController.java
+D:\Codes\Chatbot Project\backend\src\main\java\com\example\chatbot\repository\OrderRepository.java
+D:\Codes\Chatbot Project\backend\src\main\java\com\example\chatbot\model\ChatMessage.java
+D:\Codes\Chatbot Project\backend\src\main\java\com\example\chatbot\model\FAQ.java
+D:\Codes\Chatbot Project\backend\src\main\java\com\example\chatbot\model\Order.java
